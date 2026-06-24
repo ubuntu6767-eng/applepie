@@ -1,0 +1,8 @@
+name=libffi
+version=3.5.2
+description=libffi package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Glibc, Make, Sed
+rar=Glibc
+tsdo=DejaGnu
+mbib=Python
+od=

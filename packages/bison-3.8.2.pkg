@@ -1,0 +1,8 @@
+name=bison
+version=3.8.2
+description=bison package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, GCC, Gettext, Glibc, Grep, M4, Make, Perl, Sed
+rar=Glibc
+tsdo=Diffutils, Findutils, Flex
+mbib=Kbd, Tar
+od=Doxygen

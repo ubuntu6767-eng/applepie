@@ -1,0 +1,8 @@
+name=zlib
+version=1.3.1
+description=zlib package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Glibc, Make, Sed
+rar=Glibc
+tsdo=
+mbib=File, Kmod, Libelf, Perl, Util-linux
+od=

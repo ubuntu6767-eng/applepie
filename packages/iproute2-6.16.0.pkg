@@ -1,0 +1,8 @@
+name=iproute2
+version=6.16.0
+description=iproute2 package for Applepie Linux
+ido=Bash, Bison, Coreutils, Flex, GCC, Glibc, Make, Libcap, Libelf, Linux API Headers, Pkgconf, Zlib
+rar=Bash, Coreutils, Glibc, Libcap, Libelf, Zlib
+tsdo=
+mbib=
+od=Berkeley DB, iptables, libbpf, libmnl, libtirpc

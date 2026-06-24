@@ -1,0 +1,8 @@
+name=grep
+version=3.12
+description=grep package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, GCC, Gettext, Glibc, Grep, Make, Patch, Sed, Texinfo
+rar=Glibc
+tsdo=Gawk
+mbib=Man-DB
+od=PCRE2, libsigsegv

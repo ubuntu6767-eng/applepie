@@ -1,0 +1,8 @@
+name=bash
+version=5.3
+description=bash package for Applepie Linux
+ido=Bash, Binutils, Bison, Coreutils, Diffutils, Gawk, GCC, Glibc, Grep, Make, Ncurses, Patch, Readline, Sed, Texinfo
+rar=Glibc, Ncurses, Readline
+tsdo=Expect, Shadow
+mbib=
+od=Xorg

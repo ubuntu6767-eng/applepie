@@ -1,0 +1,8 @@
+name=packaging
+version=25.0
+description=packaging package for Applepie Linux
+ido=Flit-core, Python
+rar=Python
+tsdo=
+mbib=Wheel
+od=pytest

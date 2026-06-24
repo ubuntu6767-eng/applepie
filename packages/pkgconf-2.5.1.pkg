@@ -1,0 +1,8 @@
+name=pkgconf
+version=2.5.1
+description=pkgconf package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Gawk, GCC, Glibc, Grep, Make, Sed
+rar=Glibc
+tsdo=
+mbib=Binutils, E2fsprogs, IProute2, Kmod, Man-DB, Procps-ng, Python, Udev, Util-linux
+od=

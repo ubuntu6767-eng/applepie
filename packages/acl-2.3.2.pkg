@@ -1,0 +1,8 @@
+name=acl
+version=2.3.2
+description=acl package for Applepie Linux
+ido=Attr, Bash, Binutils, Coreutils, GCC, Gettext, Grep, M4, Make, Perl, Sed, Texinfo
+rar=Attr, Glibc
+tsdo=Automake, Diffutils, Findutils, Libtool
+mbib=Coreutils, Sed, Tar, Vim
+od=

@@ -1,0 +1,8 @@
+name=tar
+version=1.35
+description=tar package for Applepie Linux
+ido=Acl, Attr, Bash, Binutils, Bison, Coreutils, GCC, Gettext, Glibc, Grep, Inetutils, Make, Sed, Texinfo
+rar=Acl, Attr, Bzip2, Glibc, Gzip, Xz
+tsdo=Autoconf, Diffutils, Findutils, Gawk, Gzip
+mbib=
+od=

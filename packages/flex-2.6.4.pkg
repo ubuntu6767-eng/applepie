@@ -1,0 +1,8 @@
+name=flex
+version=2.6.4
+description=flex package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Gettext, Glibc, Grep, M4, Make, Patch, Sed, Texinfo
+rar=Bash, Glibc, M4
+tsdo=Bison, Gawk
+mbib=Binutils, IProute2, Kbd, Kmod, Man-DB
+od=

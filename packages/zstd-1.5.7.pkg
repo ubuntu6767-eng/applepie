@@ -1,0 +1,8 @@
+name=zstd
+version=1.5.7
+description=zstd package for Applepie Linux
+ido=Binutils, Coreutils, GCC, Glibc, Gzip, Lz4, Make, Xz, Zlib
+rar=Glibc
+tsdo=
+mbib=Binutils, GCC, Libelf, Udev
+od=

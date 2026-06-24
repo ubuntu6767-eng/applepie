@@ -1,0 +1,8 @@
+name=udev
+version=20230818
+description=udev package for Applepie Linux
+ido=Acl, Bash, Binutils, Coreutils, Diffutils, Gawk, GCC, Glibc, Gperf, Grep, Jinja2, Libcap, Libxcrypt, Meson, OpenSSL, Pkgconf, Sed, Util-linux, Zstd
+rar=Acl, Glibc, Libcap, OpenSSL, Util-linux
+tsdo=
+mbib=Util-linux
+od=

@@ -1,0 +1,8 @@
+name=autoconf
+version=2.72
+description=autoconf package for Applepie Linux
+ido=Bash, Coreutils, Grep, M4, Make, Perl, Sed, Texinfo
+rar=Bash, Coreutils, Grep, M4, Make, Sed, Texinfo
+tsdo=Automake, Diffutils, Findutils, GCC, Libtool
+mbib=Automake, Coreutils
+od=Emacs

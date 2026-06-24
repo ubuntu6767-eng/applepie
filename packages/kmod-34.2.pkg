@@ -1,0 +1,8 @@
+name=kmod
+version=34.2
+description=kmod package for Applepie Linux
+ido=Bash, Binutils, Bison, Coreutils, Flex, GCC, Gettext, Glibc, Gzip, Make, OpenSSL, Pkgconf, Sed, Xz, Zlib
+rar=Glibc, Xz, Zlib
+tsdo=
+mbib=Udev
+od=scdoc (for man pages)

@@ -1,0 +1,8 @@
+name=inetutils
+version=2.6
+description=inetutils package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Glibc, Grep, Make, Ncurses, Patch, Sed, Texinfo, Zlib
+rar=GCC, Glibc, Ncurses, Readline
+tsdo=
+mbib=Tar
+od=

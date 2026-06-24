@@ -1,0 +1,8 @@
+name=mpc
+version=1.3.1
+description=mpc package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, Gawk, GCC, Glibc, Grep, GMP, Make, MPFR, Sed, Texinfo
+rar=Glibc, GMP, MPFR
+tsdo=
+mbib=GCC
+od=

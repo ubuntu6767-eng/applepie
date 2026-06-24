@@ -1,0 +1,8 @@
+name=util-linux
+version=2.41.1
+description=util-linux package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, File, Findutils, Gawk, GCC, Gettext, Glibc, Grep, Make, Ncurses, Pkgconf, Sed, Udev, Zlib
+rar=Glibc, Ncurses, Readline, Udev, Zlib
+tsdo=
+mbib=
+od=Asciidoctor, Libcap-NG, libeconf, libuser, libutempter, Linux-PAM, smartmontools, po4a, slang

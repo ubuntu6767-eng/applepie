@@ -1,0 +1,8 @@
+name=binutils
+version=2.45
+description=binutils package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, File, Flex, Gawk, GCC, Glibc, Grep, Make, Perl, Pkgconf, Sed, Texinfo, Zlib, Zstd
+rar=Glibc, Zlib, Zstd
+tsdo=DejaGNU, Expect
+mbib=
+od=Elfutils, Jansson

@@ -1,0 +1,8 @@
+name=grub
+version=2.12
+description=grub package for Applepie Linux
+ido=Bash, Binutils, Bison, Coreutils, Diffutils, GCC, Gettext, Glibc, Grep, Make, Ncurses, Sed, Texinfo, Xz
+rar=Bash, GCC, Gettext, Glibc, Xz, Sed
+tsdo=
+mbib=
+od=

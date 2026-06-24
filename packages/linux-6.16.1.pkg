@@ -1,0 +1,8 @@
+name=linux
+version=6.16.1
+description=linux package for Applepie Linux
+ido=Bash, Bc, Binutils, Coreutils, Diffutils, Findutils, GCC, Glibc, Grep, Gzip, Kmod, Libelf, Make, Ncurses, OpenSSL, Perl, Sed
+rar=
+tsdo=
+mbib=
+od=cpio, LLVM (with Clang), Rust-bindgen

@@ -1,0 +1,8 @@
+name=e2fsprogs
+version=1.47.3
+description=e2fsprogs package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, Gawk, GCC, Glibc, Grep, Gzip, Make, Pkgconf, Sed, Texinfo, Util-linux
+rar=Glibc, Util-linux
+tsdo=Procps-ng, Psmisc
+mbib=
+od=

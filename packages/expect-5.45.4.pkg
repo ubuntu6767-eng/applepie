@@ -1,0 +1,8 @@
+name=expect
+version=5.45.4
+description=expect package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, GCC, Glibc, Grep, Make, Patch, Sed, Tcl
+rar=Glibc, Tcl
+tsdo=
+mbib=
+od=Tk

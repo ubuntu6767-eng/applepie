@@ -1,0 +1,8 @@
+name=dejagnu
+version=1.6.3
+description=dejagnu package for Applepie Linux
+ido=Bash, Coreutils, Diffutils, Expect, GCC, Grep, Make, Sed, Texinfo
+rar=Expect, Bash
+tsdo=
+mbib=
+od=

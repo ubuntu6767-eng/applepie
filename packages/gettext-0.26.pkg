@@ -1,0 +1,8 @@
+name=gettext
+version=0.26
+description=gettext package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Gawk, GCC, Glibc, Grep, Make, Ncurses, Sed, Texinfo
+rar=Acl, Bash, Gcc, Glibc
+tsdo=Diffutils, Perl, Tcl
+mbib=Automake, Bison
+od=libunistring, libxml2

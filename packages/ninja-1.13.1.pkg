@@ -1,0 +1,8 @@
+name=ninja
+version=1.13.1
+description=ninja package for Applepie Linux
+ido=Binutils, Coreutils, GCC, Python
+rar=GCC, Glibc
+tsdo=cmake
+mbib=Meson
+od=Asciidoc, Doxygen, Emacs, re2c

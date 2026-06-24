@@ -1,0 +1,8 @@
+name=bc
+version=7.0.3
+description=bc package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Glibc, Grep, Make, Readline
+rar=Glibc, Ncurses, Readline
+tsdo=Gawk
+mbib=Linux
+od=

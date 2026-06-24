@@ -1,0 +1,8 @@
+name=groff
+version=1.23.0
+description=groff package for Applepie Linux
+ido=Bash, Binutils, Bison, Coreutils, Gawk, GCC, Glibc, Grep, Make, Patch, Sed, Texinfo
+rar=GCC, Glibc, Perl
+tsdo=
+mbib=Man-DB
+od=ghostscript, Uchardet

@@ -1,0 +1,8 @@
+name=tcl
+version=8.6.16-src
+description=tcl package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, GCC, Glibc, Grep, Make, Sed
+rar=Glibc, Zlib
+tsdo=
+mbib=
+od=

@@ -1,0 +1,8 @@
+name=python
+version=3.13.7
+description=python package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Expat, GCC, Gdbm, Gettext, Glibc, Grep, Libffi, Libxcrypt, Make, Ncurses, OpenSSL, Pkgconf, Sed, Util-linux
+rar=Bzip2, Expat, Gdbm, Glibc, Libffi, Libxcrypt, Ncurses, OpenSSL, Zlib
+tsdo=GDB, Valgrind
+mbib=Ninja
+od=Berkeley DB, libnsl, SQLite, Tk

@@ -1,0 +1,8 @@
+name=xml-parser
+version=2.47
+description=xml-parser package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Expat, GCC, Glibc, Make, Perl
+rar=Expat, Glibc, Perl
+tsdo=Perl
+mbib=Intltool
+od=LWP::UserAgent

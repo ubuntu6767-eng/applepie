@@ -1,0 +1,8 @@
+name=sed
+version=4.9
+description=sed package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Gettext, Glibc, Grep, Make, Sed, Texinfo
+rar=Acl, Attr, Glibc
+tsdo=Diffutils, Gawk
+mbib=E2fsprogs, File, Libtool, Shadow
+od=

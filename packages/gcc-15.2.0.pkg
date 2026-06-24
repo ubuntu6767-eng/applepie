@@ -1,0 +1,8 @@
+name=gcc
+version=15.2.0
+description=gcc package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, Findutils, Gawk, GCC, Gettext, Glibc, GMP, Grep, M4, Make, MPC, MPFR, Patch, Perl, Sed, Tar, Texinfo, Zstd
+rar=Bash, Binutils, Glibc, Mpc, Python
+tsdo=DejaGNU, Expect, Shadow
+mbib=
+od=GDC, GNAT, ISL

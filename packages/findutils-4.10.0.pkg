@@ -1,0 +1,8 @@
+name=findutils
+version=4.10.0
+description=findutils package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Gettext, Glibc, Grep, Make, Sed, Texinfo
+rar=Bash, Glibc
+tsdo=DejaGNU, Diffutils, Expect
+mbib=
+od=

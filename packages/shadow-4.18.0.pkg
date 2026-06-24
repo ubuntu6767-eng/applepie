@@ -1,0 +1,8 @@
+name=shadow
+version=4.18.0
+description=shadow package for Applepie Linux
+ido=Acl, Attr, Bash, Binutils, Coreutils, Diffutils, Findutils, Gawk, GCC, Gettext, Glibc, Grep, Libcap, Libxcrypt, Make, Sed
+rar=Glibc, Libxcrypt
+tsdo=
+mbib=Coreutils
+od=CrackLib, Linux-PAM

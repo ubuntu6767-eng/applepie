@@ -1,0 +1,8 @@
+name=gdbm
+version=1.26
+description=gdbm package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, GCC, Grep, Make, Sed
+rar=Bash, Glibc, Readline
+tsdo=
+mbib=
+od=

@@ -1,0 +1,8 @@
+name=less
+version=679
+description=less package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, GCC, Glibc, Grep, Make, Ncurses, Sed
+rar=Glibc, Ncurses
+tsdo=
+mbib=Gzip
+od=PCRE2, PCRE

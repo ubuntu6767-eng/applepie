@@ -1,0 +1,8 @@
+name=readline
+version=8.3
+description=readline package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Gawk, GCC, Glibc, Grep, Make, Ncurses, Patch, Sed, Texinfo
+rar=Glibc, Ncurses
+tsdo=
+mbib=Bash, Bc, Gawk
+od=

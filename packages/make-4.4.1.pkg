@@ -1,0 +1,8 @@
+name=make
+version=4.4.1
+description=make package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Gettext, Glibc, Grep, Make, Sed, Texinfo
+rar=Glibc
+tsdo=Perl, Procps-ng
+mbib=
+od=Guile

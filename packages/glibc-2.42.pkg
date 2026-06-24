@@ -1,0 +1,8 @@
+name=glibc
+version=2.42
+description=glibc package for Applepie Linux
+ido=Bash, Binutils, Bison, Coreutils, Diffutils, Gawk, GCC, Gettext, Grep, Gzip, Linux API Headers, Make, Perl, Python, Sed, Texinfo
+rar=
+tsdo=File
+mbib=
+od=

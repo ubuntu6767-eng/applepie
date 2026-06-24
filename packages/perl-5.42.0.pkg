@@ -1,0 +1,8 @@
+name=perl
+version=5.42.0
+description=perl package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Gawk, GCC, GDBM, Glibc, Grep, Libxcrypt, Make, Sed, Zlib
+rar=GDBM, Glibc, Libxcrypt
+tsdo=Iana-Etc, Less, Procps-ng
+mbib=Autoconf
+od=Berkeley DB

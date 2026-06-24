@@ -1,0 +1,8 @@
+name=man-db
+version=2.13.1
+description=man-db package for Applepie Linux
+ido=Bash, Binutils, Bzip2, Coreutils, Flex, GCC, GDBM, Gettext, Glibc, Grep, Groff, Gzip, Less, Libpipeline, Make, Pkgconf, Sed, Xz
+rar=Bash, GDBM, Groff, Glibc, Gzip, Less, Libpipeline, Zlib
+tsdo=Util-linux
+mbib=
+od=libseccomp, po4a

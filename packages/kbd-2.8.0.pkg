@@ -1,0 +1,8 @@
+name=kbd
+version=2.8.0
+description=kbd package for Applepie Linux
+ido=Bash, Binutils, Bison, Coreutils, Flex, GCC, Gettext, Glibc, Gzip, Make, Patch, Sed
+rar=Bash, Coreutils, Glibc
+tsdo=
+mbib=
+od=Linux-PAM

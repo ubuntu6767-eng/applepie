@@ -1,0 +1,8 @@
+name=attr
+version=2.5.2
+description=attr package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Gettext, Glibc, Grep, M4, Make, Perl, Sed, Texinfo
+rar=Glibc
+tsdo=Automake, Diffutils, Findutils, Libtool
+mbib=Acl, Libcap, Patch
+od=

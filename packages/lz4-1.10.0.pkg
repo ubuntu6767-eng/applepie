@@ -1,0 +1,8 @@
+name=lz4
+version=1.10.0
+description=lz4 package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Glibc, Make
+rar=Glibc
+tsdo=Python
+mbib=Zstd
+od=

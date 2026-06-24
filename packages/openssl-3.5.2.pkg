@@ -1,0 +1,8 @@
+name=openssl
+version=3.5.2
+description=openssl package for Applepie Linux
+ido=Binutils, Coreutils, GCC, Make, Perl
+rar=Glibc, Perl
+tsdo=
+mbib=Coreutils, Kmod, Linux, Udev
+od=

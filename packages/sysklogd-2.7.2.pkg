@@ -1,0 +1,8 @@
+name=sysklogd
+version=2.7.2
+description=sysklogd package for Applepie Linux
+ido=Binutils, Coreutils, GCC, Glibc, Make, Patch
+rar=Glibc
+tsdo=
+mbib=
+od=

@@ -1,0 +1,8 @@
+name=file
+version=5.46
+description=file package for Applepie Linux
+ido=Bash, Binutils, Bzip2, Coreutils, Diffutils, Gawk, GCC, Glibc, Grep, Make, Sed, Xz, Zlib
+rar=Glibc, Bzip2, Xz, Zlib
+tsdo=
+mbib=
+od=libseccomp

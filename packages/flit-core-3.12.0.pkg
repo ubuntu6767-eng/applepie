@@ -1,0 +1,8 @@
+name=flit-core
+version=3.12.0
+description=flit-core package for Applepie Linux
+ido=Python
+rar=Python
+tsdo=
+mbib=Packaging, Wheel
+od=pytest, testpath

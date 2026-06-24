@@ -1,0 +1,8 @@
+name=ncurses
+version=6.5-20250809
+description=ncurses package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, Gawk, GCC, Glibc, Grep, Make, Patch, Sed
+rar=Glibc
+tsdo=
+mbib=Bash, GRUB, Inetutils, Less, Procps-ng, Psmisc, Readline, Texinfo, Util-linux, Vim
+od=

@@ -1,0 +1,8 @@
+name=gmp
+version=6.3.0
+description=gmp package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, Gawk, GCC, Glibc, Grep, M4, Make, Sed, Texinfo
+rar=GCC, Glibc
+tsdo=
+mbib=MPFR, GCC
+od=

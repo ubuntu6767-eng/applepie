@@ -1,0 +1,8 @@
+name=gawk
+version=5.3.2
+description=gawk package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Gettext, Glibc, GMP, Grep, Make, MPFR, Patch, Readline, Sed, Texinfo
+rar=Bash, Glibc, Mpfr
+tsdo=Diffutils
+mbib=
+od=libsigsegv

@@ -1,0 +1,8 @@
+name=elfutils
+version=0.193
+description=elfutils (Libelf) package for Applepie Linux
+ido=Bash, Binutils, Bzip2, Coreutils, GCC, Glibc, Make, Xz, Zlib, Zstd
+rar=Bzip2, Glibc, Xz, Zlib, Zstd
+tsdo=
+mbib=IProute2, Linux
+od=

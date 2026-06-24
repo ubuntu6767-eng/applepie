@@ -1,0 +1,8 @@
+name=gperf
+version=3.3
+description=gperf package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Glibc, Make
+rar=GCC, Glibc
+tsdo=Diffutils, Expect
+mbib=
+od=

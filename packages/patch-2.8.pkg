@@ -1,0 +1,8 @@
+name=patch
+version=2.8
+description=patch package for Applepie Linux
+ido=Attr, Bash, Binutils, Coreutils, GCC, Glibc, Grep, Make, Sed
+rar=Attr, Glibc
+tsdo=Diffutils
+mbib=
+od=Ed

@@ -1,0 +1,8 @@
+name=m4
+version=1.4.20
+description=m4 package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Glibc, Grep, Make, Sed, Texinfo
+rar=Bash, Glibc
+tsdo=Diffutils
+mbib=Autoconf, Bison
+od=libsigsegv

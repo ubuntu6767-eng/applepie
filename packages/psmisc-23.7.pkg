@@ -1,0 +1,8 @@
+name=psmisc
+version=23.7
+description=psmisc package for Applepie Linux
+ido=Bash, Binutils, Coreutils, GCC, Gettext, Glibc, Grep, Make, Ncurses, Sed
+rar=Glibc, Ncurses
+tsdo=Expect
+mbib=
+od=

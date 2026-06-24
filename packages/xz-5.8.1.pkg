@@ -1,0 +1,8 @@
+name=xz
+version=5.8.1
+description=xz package for Applepie Linux
+ido=Bash, Binutils, Coreutils, Diffutils, GCC, Glibc, Make
+rar=Glibc
+tsdo=
+mbib=File, GRUB, Kmod, Libelf, Man-DB, Udev
+od=

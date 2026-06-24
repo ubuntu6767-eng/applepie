@@ -1,0 +1,8 @@
+name=automake
+version=1.18.1
+description=automake package for Applepie Linux
+ido=Autoconf, Bash, Coreutils, Gettext, Grep, M4, Make, Perl, Sed, Texinfo
+rar=Bash, Coreutils, Grep, M4, Sed, Texinfo
+tsdo=Binutils, Bison, Bzip2, DejaGNU, Diffutils, Expect, Findutils, Flex, GCC, Gettext, Gzip, Libtool, Tar
+mbib=Coreutils
+od=
