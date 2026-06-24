@@ -1,0 +1,6 @@
+name=grep
+version=3.12
+depends=
+build=./configure && make
+install=make install
+desc=Pattern matching utilities
