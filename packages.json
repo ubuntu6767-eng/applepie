@@ -1,0 +1,412 @@
+[
+  {
+    "name": "zstd",
+    "version": "1.5.7",
+    "description": "zstd package for Applepie Linux"
+  },
+  {
+    "name": "zlib",
+    "version": "1.3.1",
+    "description": "zlib package for Applepie Linux"
+  },
+  {
+    "name": "xz",
+    "version": "5.8.1",
+    "description": "xz package for Applepie Linux"
+  },
+  {
+    "name": "xml-parser",
+    "version": "2.47",
+    "description": "xml-parser package for Applepie Linux"
+  },
+  {
+    "name": "wheel",
+    "version": "0.46.1",
+    "description": "wheel package for Applepie Linux"
+  },
+  {
+    "name": "vim",
+    "version": "9.1.1629",
+    "description": "vim package for Applepie Linux"
+  },
+  {
+    "name": "util-linux",
+    "version": "2.41.1",
+    "description": "util-linux package for Applepie Linux"
+  },
+  {
+    "name": "udev",
+    "version": "20230818",
+    "description": "udev package for Applepie Linux"
+  },
+  {
+    "name": "texinfo",
+    "version": "7.2",
+    "description": "texinfo package for Applepie Linux"
+  },
+  {
+    "name": "tcl",
+    "version": "8.6.16-src",
+    "description": "tcl package for Applepie Linux"
+  },
+  {
+    "name": "tar",
+    "version": "1.35",
+    "description": "tar package for Applepie Linux"
+  },
+  {
+    "name": "sysvinit",
+    "version": "3.14",
+    "description": "sysvinit package for Applepie Linux"
+  },
+  {
+    "name": "sysklogd",
+    "version": "2.7.2",
+    "description": "sysklogd package for Applepie Linux"
+  },
+  {
+    "name": "shadow",
+    "version": "4.18.0",
+    "description": "shadow package for Applepie Linux"
+  },
+  {
+    "name": "setuptools",
+    "version": "80.9.0",
+    "description": "setuptools package for Applepie Linux"
+  },
+  {
+    "name": "sed",
+    "version": "4.9",
+    "description": "sed package for Applepie Linux"
+  },
+  {
+    "name": "readline",
+    "version": "8.3",
+    "description": "readline package for Applepie Linux"
+  },
+  {
+    "name": "python",
+    "version": "3.13.7",
+    "description": "python package for Applepie Linux"
+  },
+  {
+    "name": "psmisc",
+    "version": "23.7",
+    "description": "psmisc package for Applepie Linux"
+  },
+  {
+    "name": "procps",
+    "version": "4.0.5",
+    "description": "procps package for Applepie Linux"
+  },
+  {
+    "name": "pkgconf",
+    "version": "2.5.1",
+    "description": "pkgconf package for Applepie Linux"
+  },
+  {
+    "name": "perl",
+    "version": "5.42.0",
+    "description": "perl package for Applepie Linux"
+  },
+  {
+    "name": "patch",
+    "version": "2.8",
+    "description": "patch package for Applepie Linux"
+  },
+  {
+    "name": "packaging",
+    "version": "25.0",
+    "description": "packaging package for Applepie Linux"
+  },
+  {
+    "name": "openssl",
+    "version": "3.5.2",
+    "description": "openssl package for Applepie Linux"
+  },
+  {
+    "name": "ninja",
+    "version": "1.13.1",
+    "description": "ninja package for Applepie Linux"
+  },
+  {
+    "name": "ncurses",
+    "version": "6.5-20250809",
+    "description": "ncurses package for Applepie Linux"
+  },
+  {
+    "name": "mpfr",
+    "version": "4.2.2",
+    "description": "mpfr package for Applepie Linux"
+  },
+  {
+    "name": "mpc",
+    "version": "1.3.1",
+    "description": "mpc package for Applepie Linux"
+  },
+  {
+    "name": "meson",
+    "version": "1.8.3",
+    "description": "meson package for Applepie Linux"
+  },
+  {
+    "name": "markupsafe",
+    "version": "3.0.2",
+    "description": "markupsafe package for Applepie Linux"
+  },
+  {
+    "name": "man-pages",
+    "version": "6.15",
+    "description": "man-pages package for Applepie Linux"
+  },
+  {
+    "name": "man-db",
+    "version": "2.13.1",
+    "description": "man-db package for Applepie Linux"
+  },
+  {
+    "name": "make",
+    "version": "4.4.1",
+    "description": "make package for Applepie Linux"
+  },
+  {
+    "name": "m4",
+    "version": "1.4.20",
+    "description": "m4 package for Applepie Linux"
+  },
+  {
+    "name": "lz4",
+    "version": "1.10.0",
+    "description": "lz4 package for Applepie Linux"
+  },
+  {
+    "name": "linux-api-headers",
+    "version": "6.16.1",
+    "description": "Linux API Headers (from linux-6.16.1.tar.xz)"
+  },
+  {
+    "name": "linux",
+    "version": "6.16.1",
+    "description": "linux package for Applepie Linux"
+  },
+  {
+    "name": "libxcrypt",
+    "version": "4.4.38",
+    "description": "libxcrypt package for Applepie Linux"
+  },
+  {
+    "name": "libtool",
+    "version": "2.5.4",
+    "description": "libtool package for Applepie Linux"
+  },
+  {
+    "name": "libpipeline",
+    "version": "1.5.8",
+    "description": "libpipeline package for Applepie Linux"
+  },
+  {
+    "name": "libffi",
+    "version": "3.5.2",
+    "description": "libffi package for Applepie Linux"
+  },
+  {
+    "name": "libcap",
+    "version": "2.76",
+    "description": "libcap package for Applepie Linux"
+  },
+  {
+    "name": "less",
+    "version": "679",
+    "description": "less package for Applepie Linux"
+  },
+  {
+    "name": "kmod",
+    "version": "34.2",
+    "description": "kmod package for Applepie Linux"
+  },
+  {
+    "name": "kbd",
+    "version": "2.8.0",
+    "description": "kbd package for Applepie Linux"
+  },
+  {
+    "name": "jinja2",
+    "version": "3.1.6",
+    "description": "jinja2 package for Applepie Linux"
+  },
+  {
+    "name": "iproute2",
+    "version": "6.16.0",
+    "description": "iproute2 package for Applepie Linux"
+  },
+  {
+    "name": "intltool",
+    "version": "0.51.0",
+    "description": "intltool package for Applepie Linux"
+  },
+  {
+    "name": "inetutils",
+    "version": "2.6",
+    "description": "inetutils package for Applepie Linux"
+  },
+  {
+    "name": "iana-etc",
+    "version": "20250807",
+    "description": "iana-etc package for Applepie Linux"
+  },
+  {
+    "name": "gzip",
+    "version": "1.14",
+    "description": "gzip package for Applepie Linux"
+  },
+  {
+    "name": "grub",
+    "version": "2.12",
+    "description": "grub package for Applepie Linux"
+  },
+  {
+    "name": "groff",
+    "version": "1.23.0",
+    "description": "groff package for Applepie Linux"
+  },
+  {
+    "name": "grep",
+    "version": "3.12",
+    "description": "grep package for Applepie Linux"
+  },
+  {
+    "name": "gperf",
+    "version": "3.3",
+    "description": "gperf package for Applepie Linux"
+  },
+  {
+    "name": "gmp",
+    "version": "6.3.0",
+    "description": "gmp package for Applepie Linux"
+  },
+  {
+    "name": "glibc",
+    "version": "2.42",
+    "description": "glibc package for Applepie Linux"
+  },
+  {
+    "name": "gettext",
+    "version": "0.26",
+    "description": "gettext package for Applepie Linux"
+  },
+  {
+    "name": "gdbm",
+    "version": "1.26",
+    "description": "gdbm package for Applepie Linux"
+  },
+  {
+    "name": "gcc",
+    "version": "15.2.0",
+    "description": "gcc package for Applepie Linux"
+  },
+  {
+    "name": "gawk",
+    "version": "5.3.2",
+    "description": "gawk package for Applepie Linux"
+  },
+  {
+    "name": "flit-core",
+    "version": "3.12.0",
+    "description": "flit-core package for Applepie Linux"
+  },
+  {
+    "name": "flex",
+    "version": "2.6.4",
+    "description": "flex package for Applepie Linux"
+  },
+  {
+    "name": "findutils",
+    "version": "4.10.0",
+    "description": "findutils package for Applepie Linux"
+  },
+  {
+    "name": "file",
+    "version": "5.46",
+    "description": "file package for Applepie Linux"
+  },
+  {
+    "name": "expect",
+    "version": "5.45.4",
+    "description": "expect package for Applepie Linux"
+  },
+  {
+    "name": "expat",
+    "version": "2.7.1",
+    "description": "expat package for Applepie Linux"
+  },
+  {
+    "name": "elfutils",
+    "version": "0.193",
+    "description": "elfutils (Libelf) package for Applepie Linux"
+  },
+  {
+    "name": "e2fsprogs",
+    "version": "1.47.3",
+    "description": "e2fsprogs package for Applepie Linux"
+  },
+  {
+    "name": "diffutils",
+    "version": "3.12",
+    "description": "diffutils package for Applepie Linux"
+  },
+  {
+    "name": "dejagnu",
+    "version": "1.6.3",
+    "description": "dejagnu package for Applepie Linux"
+  },
+  {
+    "name": "coreutils",
+    "version": "9.7",
+    "description": "coreutils package for Applepie Linux"
+  },
+  {
+    "name": "bzip2",
+    "version": "1.0.8",
+    "description": "bzip2 package for Applepie Linux"
+  },
+  {
+    "name": "bison",
+    "version": "3.8.2",
+    "description": "bison package for Applepie Linux"
+  },
+  {
+    "name": "binutils",
+    "version": "2.45",
+    "description": "binutils package for Applepie Linux"
+  },
+  {
+    "name": "bc",
+    "version": "7.0.3",
+    "description": "bc package for Applepie Linux"
+  },
+  {
+    "name": "bash",
+    "version": "5.3",
+    "description": "bash package for Applepie Linux"
+  },
+  {
+    "name": "automake",
+    "version": "1.18.1",
+    "description": "automake package for Applepie Linux"
+  },
+  {
+    "name": "autoconf",
+    "version": "2.72",
+    "description": "autoconf package for Applepie Linux"
+  },
+  {
+    "name": "attr",
+    "version": "2.5.2",
+    "description": "attr package for Applepie Linux"
+  },
+  {
+    "name": "acl",
+    "version": "2.3.2",
+    "description": "acl package for Applepie Linux"
+  }
+]
