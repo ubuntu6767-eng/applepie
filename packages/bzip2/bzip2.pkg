@@ -1,6 +1,6 @@
 name=bzip2
 version=1.0.8
-depends=zlib
+depends=
 build=make
-install=make install
+install=make install PREFIX=/usr
 desc=Block-sorting file compressor
